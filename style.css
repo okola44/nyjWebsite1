@@ -1,0 +1,125 @@
+.logo{
+    text-align: center;
+    
+}
+.navbar{
+  text-align: center; 
+  margin: 30px; 
+  
+}
+.navbar a{
+text-decoration:double;
+color:rgb(34, 29, 29);
+padding: 14px 16px;
+font-size: 20px;
+
+
+}
+h1{
+  text-decoration: double;
+  color:rgb(73, 64, 64);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#landing{
+  color: rgb(83, 78, 78);
+  font-family: 'Roboto', sans-serif;
+  
+}
+.books{
+  text-align: right;
+  padding: 14px 16px;
+
+
+}
+.books a{
+  text-decoration:double;
+color:rgb(34, 29, 29);
+padding: 14px 16px;
+font-size: 20px;
+font-weight: bold;
+
+
+
+}
+
+.Noah{
+  text-align: left;
+  padding: 20px;
+  margin-top: 20px;
+}
+.black{
+text-align: center;
+opacity:0.8;
+
+  
+}
+.about{
+  background-color: rgba(222, 184, 135, 0.418);
+  text-align: center;
+}
+.fa{
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  color: maroon;
+
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.rightcolumn {
+  float: right;
+  width: 25%;
+  padding-right: 20px;
+}
+.leftcolumn{
+  float: left;
+  width: 70%;
+}
+.text{
+  padding: 20px;
+}
+.commentbox name{
+  color: gray;
+  
+} 
+.footer{
+  height: 50px;
+  color:gray;
+  background-color:rgba(114, 28, 28, 0.041);
+  text-align: center;
+  
+
+}h2{
+  color: grey;
+}
+h3{
+  color: grey;
+}
+p{
+  font-size: 120%;
+}
+#book{
+  background-color:  rgba(222, 184, 135, 0.418);;
+}
+.row1:after {
+  content: "";
+  display: table;
+    clear: both;
+}
+.column {
+  width: 50%;
+  float: left;
+
+}
+
+
+
+
+
+
+
